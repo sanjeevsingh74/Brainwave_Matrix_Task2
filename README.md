@@ -1,7 +1,4 @@
- ![engagement_12447520](https://github.com/user-attachments/assets/8cb2d1ad-fa59-4ba4-8385-78c5db1ab89a)
  ![social](https://github.com/user-attachments/assets/3d145b3c-df24-4875-acfd-010a53f2666a)
-
-
 
 
 # Social Media Sentiment Analysis
@@ -127,3 +124,4 @@ Target neutral users with surveys and incentives to convert them into loyal foll
 
 Generated visual wordclouds that help in understanding public conversation focus.
 
+ ![engagement_12447520](https://github.com/user-attachments/assets/8cb2d1ad-fa59-4ba4-8385-78c5db1ab89a)
