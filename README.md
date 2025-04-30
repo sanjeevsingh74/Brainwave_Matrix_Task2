@@ -33,6 +33,7 @@ Facebook is more neutral, likely used for community updates.
 Instagram trends positive, especially for visuals and brands.
 
 
+![distribution](https://github.com/user-attachments/assets/923bef91-ce79-4200-bdcb-95289922ce4a)
 
 
 
@@ -54,6 +55,8 @@ Platforms Analysis:
 Social media platforms like Twitter, Facebook, and Instagram are cleaned and visualized using pie charts and count plots.
 
 Twitter likely dominates post volume, showing higher engagement compared to others.
+![distribution](https://github.com/user-attachments/assets/8a7331dc-d562-4f09-abc8-827f1c108cc7)
+
 
 **Country & Year-wise Activity:**
 
@@ -79,13 +82,15 @@ Twitter likely shows the highest retweet activity, implying strong user interact
 Sentiment breakdown (positive, neutral, negative) per platform/year is a key insight.
 
 WordCloud & Keywords:
-
+![Likes_Month](https://github.com/user-attachments/assets/b604e430-e0a1-43d4-b12d-0dc8986c27a0)
 ## Business Recommendations
 **✅ 1. Real-Time Brand Monitoring**
 Use Python + Power BI automation to set alerts when negative sentiment spikes.
 
 Helps marketing teams respond faster and manage crises.
-![Likes_Month](https://github.com/user-attachments/assets/b604e430-e0a1-43d4-b12d-0dc8986c27a0)
+
+![Tlikes](https://github.com/user-attachments/assets/9b4705d8-1330-4993-84d2-8a6a07ae4a71)
+
 
 **✅ 2. Platform-Specific Strategies**
 Prioritize Twitter for campaign launches & news.
@@ -93,6 +98,9 @@ Prioritize Twitter for campaign launches & news.
 Use Instagram for visual storytelling and brand positivity.
 
 Reposition Facebook for community engagement and FAQs.
+
+![sentiment](https://github.com/user-attachments/assets/0f8b097e-0609-4b19-95f4-bcc8ed1758ef)
+
 
 **✅ 3. Influencer Mapping**
 Extract top positive sentiment contributors and approach them as micro-influencers.
@@ -103,6 +111,8 @@ Encourages organic brand support.
 Focus on top negative sentiment areas (e.g., delays, pricing).
 
 Create a “Voice of the Customer” dashboard in Power BI to loop customer teams in.
+
+
 
 **✅ 5. Launch Feedback Campaigns**
 Target neutral users with surveys and incentives to convert them into loyal followers.
