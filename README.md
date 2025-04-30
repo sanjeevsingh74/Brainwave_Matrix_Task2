@@ -1,3 +1,10 @@
+
+![country](https://github.com/user-attachments/assets/89460923-6f2e-43cb-99ee-4d87f63070d2)
+![engagement_12447520](https://github.com/user-attachments/assets/8cb2d1ad-fa59-4ba4-8385-78c5db1ab89a)
+![social-media (1)](https://github.com/user-attachments/assets/e0d97cb4-04c6-4561-bdf7-a1c4d65bea5c)
+![engagement_12447520](https://github.com/user-attachments/assets/5cc0e7ee-bb3b-4167-8234-19133eed3493)
+![social-media](https://github.com/user-attachments/assets/d437f97c-373d-47ce-81cf-79dd8fddf821)
+
 # Social Media Sentiment Analysis
 The Social Media Sentiments Analysis Dataset captures a vibrant tapestry of emotions, trends, and interactions across various social media platforms. This dataset provides a snapshot of user-generated content, encompassing text, timestamps, hashtags, countries, likes, and retweets. Each entry unveils unique stories—moments of surprise, excitement, admiration, thrill, contentment, and more—shared by individuals worldwide.
 
