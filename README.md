@@ -59,7 +59,8 @@ Twitter likely dominates post volume, showing higher engagement compared to othe
 
 Broken down post volume and sentiment by year and country—this shows growth in engagement over time and allows understanding of geographic influence.
 
-![Postby_platform](https://github.com/user-attachments/assets/315baa6c-b6bb-431b-bc4b-7f8f83fdbd85)
+![Platform_post](https://github.com/user-attachments/assets/dca30964-8eba-4a47-b21b-c87c0443f488)
+
 
 
 **Engagement Metrics:**
