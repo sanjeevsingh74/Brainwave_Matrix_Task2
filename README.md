@@ -55,7 +55,7 @@ Platforms Analysis:
 Social media platforms like Twitter, Facebook, and Instagram are cleaned and visualized using pie charts and count plots.
 
 Twitter likely dominates post volume, showing higher engagement compared to others.
-![distribution](https://github.com/user-attachments/assets/8a7331dc-d562-4f09-abc8-827f1c108cc7)
+
 
 
 **Country & Year-wise Activity:**
@@ -72,7 +72,7 @@ Likes and Retweets are compared per platform and over the years.
 
 Twitter likely shows the highest retweet activity, implying strong user interaction and viral content capability.
 
-![distribution](https://github.com/user-attachments/assets/9a472a1c-759f-4628-951d-a4e8a1ded359)
+
 
 
 **Sentiment Analysis:**
