@@ -4,9 +4,6 @@ The Social Media Sentiments Analysis Dataset captures a vibrant tapestry of emot
 
 
 
-
-# Social Media Sentiments Analysis
-
 ## Executive Summary
 **Goal:**
 To analyze customer sentiments across major social media platforms and convert feedback into actionable insights that improve brand engagement, reputation, and strategy.
