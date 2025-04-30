@@ -56,7 +56,7 @@ Social media platforms like Twitter, Facebook, and Instagram are cleaned and vis
 
 Twitter likely dominates post volume, showing higher engagement compared to others.
 
-
+![Likes_Month](https://github.com/user-attachments/assets/b604e430-e0a1-43d4-b12d-0dc8986c27a0)
 
 **Country & Year-wise Activity:**
 
@@ -82,7 +82,9 @@ Twitter likely shows the highest retweet activity, implying strong user interact
 Sentiment breakdown (positive, neutral, negative) per platform/year is a key insight.
 
 WordCloud & Keywords:
-![Likes_Month](https://github.com/user-attachments/assets/b604e430-e0a1-43d4-b12d-0dc8986c27a0)
+
+![likes platform](https://github.com/user-attachments/assets/af9f9a45-0570-4a0c-8146-4ba305d5af1d)
+
 ## Business Recommendations
 **✅ 1. Real-Time Brand Monitoring**
 Use Python + Power BI automation to set alerts when negative sentiment spikes.
